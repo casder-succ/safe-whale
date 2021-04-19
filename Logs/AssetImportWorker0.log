@@ -154,3 +154,43 @@ Received Import Request.
 Start importing Assets/logo2.png using Guid(b365785a77ef069bcb9511ce0707f796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c4521f9a6f239539e0782f830f4e7b') in 0,016341 seconds
   Import took 0,022253 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 656,403115 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '025e4f587c23674256bb898581e82961') in 0,001344 seconds
+  Import took 0,006404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15,368897 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(e417f59b32a4f459eb79b13a89be24ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(e417f59b32a4f459eb79b13a89be24ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ba9769d1baf1f809212ebb62b6bd82') in 0,001911 seconds
+  Import took 0,006940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 496,338527 seconds.
+  path: Assets/Resources/gora_musora1_gotovaya.png
+  artifactKey: Guid(8d2d29b968760431388177ca713c2ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/gora_musora1_gotovaya.png using Guid(8d2d29b968760431388177ca713c2ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13609727ff5cdc6c5715b1ef38e8be4f') in 0,014234 seconds
+  Import took 0,017280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73,033804 seconds.
+  path: Assets/Resources/logo2.png
+  artifactKey: Guid(b365785a77ef069bcb9511ce0707f796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/logo2.png using Guid(b365785a77ef069bcb9511ce0707f796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae48f2f0380f591c591076d80f6bccaf') in 0,059928 seconds
+  Import took 0,066681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,010212 seconds.
+  path: Assets/Resources/logo2.png
+  artifactKey: Guid(b365785a77ef069bcb9511ce0707f796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/logo2.png using Guid(b365785a77ef069bcb9511ce0707f796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae48f2f0380f591c591076d80f6bccaf') in 0,021152 seconds
+  Import took 0,029243 seconds .
+
