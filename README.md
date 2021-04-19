@@ -1,1 +1,1 @@
-Safe Swimmy Whale game
+Save Swimmy Whale game
